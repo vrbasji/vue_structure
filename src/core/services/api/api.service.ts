@@ -1,0 +1,1 @@
+// base api service - should contains handling authentication and providing methods as get, post,..
